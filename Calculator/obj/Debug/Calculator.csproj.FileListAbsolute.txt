@@ -1,0 +1,7 @@
+D:\Pemograman Lanjut\Calculator\Calculator\bin\Debug\Calculator.exe.config
+D:\Pemograman Lanjut\Calculator\Calculator\bin\Debug\Calculator.exe
+D:\Pemograman Lanjut\Calculator\Calculator\bin\Debug\Calculator.pdb
+D:\Pemograman Lanjut\Calculator\Calculator\obj\Debug\Calculator.csproj.AssemblyReference.cache
+D:\Pemograman Lanjut\Calculator\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+D:\Pemograman Lanjut\Calculator\Calculator\obj\Debug\Calculator.exe
+D:\Pemograman Lanjut\Calculator\Calculator\obj\Debug\Calculator.pdb
