@@ -88,6 +88,7 @@
             this.cmbOperasi.Name = "cmbOperasi";
             this.cmbOperasi.Size = new System.Drawing.Size(121, 24);
             this.cmbOperasi.TabIndex = 4;
+            this.cmbOperasi.SelectedIndexChanged += new System.EventHandler(this.cmbOperasi_SelectedIndexChanged);
             // 
             // txtNilaiA
             // 

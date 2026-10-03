@@ -67,5 +67,10 @@ namespace WindowsFormsApp1
             }
 
         }
+
+        private void cmbOperasi_SelectedIndexChanged(object sender, EventArgs e)
+        {
+
+        }
     }
 }

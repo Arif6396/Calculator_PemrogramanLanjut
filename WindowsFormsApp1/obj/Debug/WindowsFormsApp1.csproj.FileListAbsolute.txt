@@ -9,3 +9,14 @@ D:\Pemograman Lanjut\Calculator\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form
 D:\Pemograman Lanjut\Calculator\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
 D:\Pemograman Lanjut\Calculator\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
 D:\Pemograman Lanjut\Calculator\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe.config
+D:\Pemograman Lanjut\CalculatorApp\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\Pemograman Lanjut\CalculatorApp\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\Pemograman Lanjut\CalculatorApp\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\Pemograman Lanjut\CalculatorApp\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+D:\Pemograman Lanjut\CalculatorApp\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe.config
+D:\Pemograman Lanjut\CalculatorApp\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+D:\Pemograman Lanjut\CalculatorApp\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\Pemograman Lanjut\CalculatorApp\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+D:\Pemograman Lanjut\CalculatorApp\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+D:\Pemograman Lanjut\CalculatorApp\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\Pemograman Lanjut\CalculatorApp\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb

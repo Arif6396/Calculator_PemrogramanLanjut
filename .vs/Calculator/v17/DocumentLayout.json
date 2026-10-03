@@ -3,8 +3,24 @@
   "WorkspaceRootPath": "D:\\Pemograman Lanjut\\CalculatorApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{17BFACAA-5DCC-435B-A4F7-D45FBB58BC6E}|Calculator\\Calculator.csproj|d:\\pemograman lanjut\\calculatorapp\\calculator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{17BFACAA-5DCC-435B-A4F7-D45FBB58BC6E}|Calculator\\Calculator.csproj|solutionrelative:calculator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0DE03445-0846-466D-9CEE-D9FECEC85F9B}|WindowsFormsApp1\\WindowsFormsApp1.csproj|D:\\Pemograman Lanjut\\CalculatorApp\\windowsformsapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DE03445-0846-466D-9CEE-D9FECEC85F9B}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AA8EEC9-0F04-46DC-B225-C2A4B033CB3C}|WindowsFormsApp2\\WindowsFormsApp2.csproj|d:\\pemograman lanjut\\calculatorapp\\windowsformsapp2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3AA8EEC9-0F04-46DC-B225-C2A4B033CB3C}|WindowsFormsApp2\\WindowsFormsApp2.csproj|solutionrelative:windowsformsapp2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AA8EEC9-0F04-46DC-B225-C2A4B033CB3C}|WindowsFormsApp2\\WindowsFormsApp2.csproj|d:\\pemograman lanjut\\calculatorapp\\windowsformsapp2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AA8EEC9-0F04-46DC-B225-C2A4B033CB3C}|WindowsFormsApp2\\WindowsFormsApp2.csproj|solutionrelative:windowsformsapp2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3E5E23B-92A9-4AC9-B4A2-BE8AF1A7AAE8}|CalculatorConsole\\CalculatorConsole.csproj|d:\\pemograman lanjut\\calculatorapp\\calculatorconsole\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3E5E23B-92A9-4AC9-B4A2-BE8AF1A7AAE8}|CalculatorConsole\\CalculatorConsole.csproj|solutionrelative:calculatorconsole\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DE03445-0846-466D-9CEE-D9FECEC85F9B}|WindowsFormsApp1\\WindowsFormsApp1.csproj|d:\\pemograman lanjut\\calculatorapp\\windowsformsapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0DE03445-0846-466D-9CEE-D9FECEC85F9B}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,20 +30,70 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Pemograman Lanjut\\CalculatorApp\\Calculator\\Program.cs",
-              "RelativeDocumentMoniker": "Calculator\\Program.cs",
-              "ToolTip": "D:\\Pemograman Lanjut\\CalculatorApp\\Calculator\\Program.cs",
-              "RelativeToolTip": "Calculator\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentMoniker": "D:\\Pemograman Lanjut\\CalculatorApp\\CalculatorConsole\\Program.cs",
+              "RelativeDocumentMoniker": "CalculatorConsole\\Program.cs",
+              "ToolTip": "D:\\Pemograman Lanjut\\CalculatorApp\\CalculatorConsole\\Program.cs",
+              "RelativeToolTip": "CalculatorConsole\\Program.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAA3wDMAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-02T08:36:31.502Z",
+              "WhenOpened": "2026-10-03T05:58:52.22Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\Pemograman Lanjut\\CalculatorApp\\WindowsFormsApp2\\Form1.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp2\\Form1.cs",
+              "ToolTip": "D:\\Pemograman Lanjut\\CalculatorApp\\WindowsFormsApp2\\Form1.cs",
+              "RelativeToolTip": "WindowsFormsApp2\\Form1.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAgwDMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-03T05:55:56.769Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\Pemograman Lanjut\\CalculatorApp\\WindowsFormsApp2\\Form1.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp2\\Form1.cs",
+              "ToolTip": "D:\\Pemograman Lanjut\\CalculatorApp\\WindowsFormsApp2\\Form1.cs [Design]",
+              "RelativeToolTip": "WindowsFormsApp2\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-03T05:46:08.111Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\Pemograman Lanjut\\CalculatorApp\\WindowsFormsApp1\\Form1.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\Form1.cs",
+              "ToolTip": "D:\\Pemograman Lanjut\\CalculatorApp\\WindowsFormsApp1\\Form1.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\Form1.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAYwEgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-03T03:39:35.626Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\Pemograman Lanjut\\CalculatorApp\\WindowsFormsApp1\\Form1.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\Form1.cs",
+              "ToolTip": "D:\\Pemograman Lanjut\\CalculatorApp\\WindowsFormsApp1\\Form1.cs [Design]",
+              "RelativeToolTip": "WindowsFormsApp1\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-03T03:37:19.651Z",
+              "EditorCaption": " [Design]"
             }
           ]
         }
